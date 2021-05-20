@@ -44,6 +44,7 @@
       <li><a class="" href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
       <li><a href="about.html">About me</a></li>
+      <li><a href="https://yennnie.wixsite.com/yennie">Blog</a></li>
     </ul>
   </div>          
 

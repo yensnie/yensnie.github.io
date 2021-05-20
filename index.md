@@ -65,6 +65,7 @@
       <ul class="header-nav">
         <li><a class="" href="projects.html">Projects</a></li>
         <li><a class="" href="about.html">About me</a></li>
+	<li><a href="https://yennnie.wixsite.com/yennie">Blog</a></li>
       </ul>
 
       <ul class="social-icon">

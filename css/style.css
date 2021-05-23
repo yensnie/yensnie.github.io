@@ -517,7 +517,7 @@ CONTENT
 
 
 .content .text-intro{
-  width: 1140px;
+  width: 980px;
   margin-top: 150px;
   margin: 150px auto 0;
 }
@@ -540,7 +540,7 @@ CONTENT
   font-size:13px;
   color:#8d8d8d;
   margin-top:30px;
-  font-weight:400;
+  font-weight:500;
   line-height:22px;
   letter-spacing:1px;
   /*width:40%; */
@@ -932,4 +932,8 @@ textarea:focus{background:#f4f4f4; height:250px;}
 }
 .content .text-intro.landing-text h1 {
   width:  40% ;
+}
+.ul-list {
+  list-style: disc;
+  line-height: 24px;
 }

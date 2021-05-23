@@ -43,7 +43,6 @@
     <ul class="menu-fullscreen">
       <li><a class="" href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
-      <li><a href="about.html">About me</a></li>
       <li><a href="https://yennnie.wixsite.com/yennie">Blog</a></li>
     </ul>
   </div>          
@@ -64,7 +63,6 @@
       <div class="logo"><a class="" href="index.html">Y E N N I E.</a></div>
       <ul class="header-nav">
         <li><a class="" href="projects.html">Projects</a></li>
-        <li><a class="" href="about.html">About me</a></li>
 	<li><a href="https://yennnie.wixsite.com/yennie">Blog</a></li>
       </ul>
 

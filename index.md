@@ -150,7 +150,15 @@
           </div>
         </a>
       </li>
-
+	<li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
+        <img src="img/portfolio/8.jpg">
+        <a href="single-hci.html">
+          <div class="grid-hover">
+            <h1>HCI Research</h1>
+            <p> Research Project</p>
+          </div>
+        </a>
+      </li>
       <li class="grid-item" data-jkit="[show:delay=3000;speed=500;animation=fade]">
         <img src="img/portfolio/6.jpg">
         <a href="single-visual.html">

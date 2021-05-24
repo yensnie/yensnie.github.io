@@ -146,7 +146,7 @@
         <a href="index.html">
           <div class="grid-hover">
             <h1>Qsensei Log </h1>
-            <p>Log Management System | UI | Protected </p>
+            <p>Log MS| UI |Protected by Qsensei </p>
           </div>
         </a>
       </li>
